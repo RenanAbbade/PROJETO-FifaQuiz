@@ -2,7 +2,7 @@
 
 <b>Feito por @RenanAbbade(Front-End) & @RafaelSanzio0(Back-End).</b>
 
-Projeto da Faculdade feito com HTML/CSS/JAVASCRIPT/BOOTSRATP/JQUERY
+Projeto da disciplina de Web Mobile feito com HTML/CSS/JAVASCRIPT/BOOTSRATP/JQUERY
 
 O Quiz contém validação do usuário (não permiti o mesmo responder nulo), verifica a quantidade de acertos, diz para o usuário a sua pontuação
 e informa as respostas corretas.
