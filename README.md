@@ -1,6 +1,6 @@
 # PROJETO-FifaQuiz
 
-<b>Feito por Renan Abbade(Front-End) & Rafael Sanzio(Back-End).</b>
+<b>Feito por @RenanAbbade(Front-End) & @RafaelSanzio0(Back-End).</b>
 
 Projeto da Faculdade feito com HTML/CSS/JAVASCRIPT/BOOTSRATP/JQUERY
 
